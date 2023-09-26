@@ -17,7 +17,7 @@ To use MAPFINDER, follow these steps:
 1. Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/YourUsername/MAPFINDER.git
+git clone https://github.com/Keidi16/MAPFINDER.git
 cd MAPFINDER
 python3 mapfinder.py -target-url
 
