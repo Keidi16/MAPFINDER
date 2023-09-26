@@ -1,9 +1,25 @@
-## ABOUT ME
-<p>🔒 I'm Cybersecurity Consultant & Bug Hunter 🐞</p>
-<p>🔍 Penetration testing enthusiast and ethical hacker.</p>
-<p>🌟 Turning vulnerabilities into opportunities for improvement.</p>
+## MAPFINDER
 
-<img src="https://img.shields.io/static/v1?label=hacker&message=Pentesting&color=blue&style=for-the-badge&logo=Python"/>
-<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+MAPFINDER is a Python script designed for conducting brute force attacks on files and directories of websites. This tool can help in identifying hidden or sensitive content on web servers by attempting to enumerate and access directories and files that may not be publicly linked.
+
+### Features
+
+- Brute force testing for files and directories on web servers.
+- Customizable wordlists for directory and file name discovery.
+- Robust error handling and reporting.
+- Multithreaded for efficient scanning.
+- CLI-based interface for ease of use.
+
+### Usage
+
+To use MAPFINDER, follow these steps:
+
+1. Clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/YourUsername/MAPFINDER.git
+cd MAPFINDER
+python3 mapfinder.py -target-url
+
 
 
